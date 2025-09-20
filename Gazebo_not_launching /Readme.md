@@ -72,5 +72,4 @@ The error message i got while trying to run gazebo garden
 
 
 ## Solution
- ```bash sudo ufw disable
- ```
+ ```bash sudo ufw disable```
