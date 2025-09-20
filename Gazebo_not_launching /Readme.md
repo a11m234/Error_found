@@ -67,8 +67,10 @@ The error message i got while trying to run gazebo garden
 [GUI] [Dbg] [Gui.cc:355] GUI requesting list of world names. The server may be busy downloading resources. Please be patient.
 [GUI] [Dbg] [Gui.cc:355] GUI requesting list of world names. The server may be busy downloading resources. Please be patient.
 [GUI] [Dbg] [Gui.cc:355] GUI requesting list of world names. The server may be busy downloading resources. Please be patient.
-^C[GUI] [Dbg] [SignalHandler.cc:142] Received signal[2].  ```
+^C[GUI] [Dbg] [SignalHandler.cc:142] Received signal[2].
+```
 
 
 ## Solution
- ```bash sudo ufw disable```
+ ```bash sudo ufw disable
+ ```
