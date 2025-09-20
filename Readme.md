@@ -70,5 +70,5 @@ bash ``` gz sim -v 4 default.sdf
 ^C[GUI] [Dbg] [SignalHandler.cc:142] Received signal[2].  ```
 
 
-### solution
+## Solution
 bash ``` sudo ufw disable```
