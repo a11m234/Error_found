@@ -1,4 +1,9 @@
-gz sim -v 4 default.sdf 
+
+
+## Problem 
+The error message i got while trying to run gazebo garden 
+
+bash ``` gz sim -v 4 default.sdf 
 [Msg] Gazebo Sim GUI    v8.9.0
 [Dbg] [gz.cc:166] Subscribing to [/gazebo/starting_world].
 [Dbg] [gz.cc:168] Waiting for a world to be set from the GUI...
@@ -62,7 +67,7 @@ gz sim -v 4 default.sdf
 [GUI] [Dbg] [Gui.cc:355] GUI requesting list of world names. The server may be busy downloading resources. Please be patient.
 [GUI] [Dbg] [Gui.cc:355] GUI requesting list of world names. The server may be busy downloading resources. Please be patient.
 [GUI] [Dbg] [Gui.cc:355] GUI requesting list of world names. The server may be busy downloading resources. Please be patient.
-^C[GUI] [Dbg] [SignalHandler.cc:142] Received signal[2].  
+^C[GUI] [Dbg] [SignalHandler.cc:142] Received signal[2].  ```
 
 
 ### solution
