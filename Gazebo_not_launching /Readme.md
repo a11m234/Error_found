@@ -3,7 +3,7 @@
 ## Problem 
 The error message i got while trying to run gazebo garden 
 
-bash ``` gz sim -v 4 default.sdf 
+ ```bash gz sim -v 4 default.sdf 
 [Msg] Gazebo Sim GUI    v8.9.0
 [Dbg] [gz.cc:166] Subscribing to [/gazebo/starting_world].
 [Dbg] [gz.cc:168] Waiting for a world to be set from the GUI...
@@ -71,4 +71,4 @@ bash ``` gz sim -v 4 default.sdf
 
 
 ## Solution
-bash ``` sudo ufw disable```
+ ```bash sudo ufw disable```
